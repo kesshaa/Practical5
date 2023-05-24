@@ -1,0 +1,15 @@
+D:\Practical5\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe.config
+D:\Practical5\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe
+D:\Practical5\Zadanie4\Zadanie4\bin\Debug\Zadanie4.pdb
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csproj.AssemblyReference.cache
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\MainWindow.g.cs
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\App.g.cs
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4_MarkupCompile.cache
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4_MarkupCompile.lref
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\MainWindow.baml
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4.g.resources
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4.Properties.Resources.resources
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csproj.GenerateResource.cache
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4.exe
+D:\Practical5\Zadanie4\Zadanie4\obj\Debug\Zadanie4.pdb
